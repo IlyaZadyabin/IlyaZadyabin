@@ -8,7 +8,7 @@ Hello there! I'm a seasoned Flutter developer with a strong background in buildi
 
 * 🌍  I'm based in Cyprus 🇨🇾
 * ✉️  You can contact me at [iliazadiabin@gmail.com](mailto:iliazadiabin@gmail.com)
-* 🚀  I'm currently working on [AI Language Tutor Slai](http://slai.tech/)
+* 🚀  I'm currently working on [AI Language Tutor Slai](https://slai.tech/)
 * 🧠  I'm learning Solidity
 
 ### Skills
